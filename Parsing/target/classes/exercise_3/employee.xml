@@ -1,0 +1,18 @@
+<exercise_3.Employee>
+  <id>758</id>
+  <salary>5000.0</salary>
+  <address>
+    <streetAddress>Pushkin Street,28,apartment 356</streetAddress>
+    <city>st.Petersburg</city>
+    <postalCode>1101</postalCode>
+  </address>
+  <department>
+    <department__name>Management</department__name>
+    <department__code>M01</department__code>
+  </department>
+  <phoneNumber>
+    <string>222-333-444</string>
+    <string>555-666-777</string>
+    <string>888-999-000</string>
+  </phoneNumber>
+</exercise_3.Employee>

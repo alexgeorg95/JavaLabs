@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34977" started-at="2018-05-12T17:41:34Z" finished-at="2018-05-12T17:42:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34977" started-at="2018-05-12T17:41:34Z" finished-at="2018-05-12T17:42:09Z">
+      <class name="lab_4.FillWithDataProvider">
+        <test-method status="PASS" signature="openWebPage()[pri:0, instance:lab_4.FillWithDataProvider@2a2d45ba]" name="openWebPage" is-config="true" duration-ms="7518" started-at="2018-05-12T20:41:34Z" finished-at="2018-05-12T20:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebPage -->
+        <test-method status="PASS" signature="fillInputFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lab_4.FillWithDataProvider@2a2d45ba]" name="fillInputFields" duration-ms="7194" started-at="2018-05-12T20:41:42Z" data-provider="test1" finished-at="2018-05-12T20:41:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[06:00]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[06/17/2014]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[07:00]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[07/08/2014]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillInputFields -->
+        <test-method status="PASS" signature="fillInputFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lab_4.FillWithDataProvider@2a2d45ba]" name="fillInputFields" duration-ms="6816" started-at="2018-05-12T20:41:49Z" data-provider="test1" finished-at="2018-05-12T20:41:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11:00]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11/24/2015]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[09:00]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12/25/2015]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillInputFields -->
+        <test-method status="PASS" signature="fillInputFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lab_4.FillWithDataProvider@2a2d45ba]" name="fillInputFields" duration-ms="6711" started-at="2018-05-12T20:41:56Z" data-provider="test1" finished-at="2018-05-12T20:42:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[08:00]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[04/28/2017]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10:00]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[08/10/2017]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillInputFields -->
+        <test-method status="PASS" signature="calculateAndCloseWebPage()[pri:0, instance:lab_4.FillWithDataProvider@2a2d45ba]" name="calculateAndCloseWebPage" is-config="true" duration-ms="6707" started-at="2018-05-12T20:42:03Z" finished-at="2018-05-12T20:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateAndCloseWebPage -->
+      </class> <!-- lab_4.FillWithDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
